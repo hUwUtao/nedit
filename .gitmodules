@@ -1,0 +1,3 @@
+[submodule "ine"]
+	path = ine
+	url = https://github.com/thedmd/imgui-node-editor
